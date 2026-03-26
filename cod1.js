@@ -1,3 +1,3 @@
 //1) 
- alert('olhe o console');
+ alert('abra o console');
 console.log('Boas Vindas!');
